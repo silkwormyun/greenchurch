@@ -16,10 +16,10 @@ unsigned long time;
 Process date;
 
 // Your Google Docs data
-const String GOOGLE_USERNAME = "silkwormyun@gmail.com";
-const String GOOGLE_PASSWORD = "bauhaus17";
-const String SPREADSHEET_TITLE = "yun";
-const String TO_EMAIL_ADDRESS = "silkwormyun@gmail.com";
+const String GOOGLE_USERNAME = "xx";
+const String GOOGLE_PASSWORD = "xx";
+const String SPREADSHEET_TITLE = "xx";
+const String TO_EMAIL_ADDRESS = "xx";
 
 // Include required libraries
 #include "DHT.h"
